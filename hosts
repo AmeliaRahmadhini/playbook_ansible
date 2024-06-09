@@ -1,3 +1,0 @@
-[web_servers]
-localhost ansible_host=103.19.208.39 ansible_port=2022
-localhost ansible_host=103.19.208.41 ansible_port=2022

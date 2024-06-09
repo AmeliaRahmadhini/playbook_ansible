@@ -1,2 +1,4 @@
 # playbook_ansible
-playbook ansible PA
+Ansible Playbook for Deploying Wordress Site Automatically
+- Docker Version
+- Kubernetes Version
