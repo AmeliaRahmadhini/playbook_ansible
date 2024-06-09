@@ -30,6 +30,7 @@
           - python3-setuptools
           - makepasswd
           - docker.io
+          - python3-docker
         state: latest
         update_cache: true
 
